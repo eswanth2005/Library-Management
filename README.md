@@ -35,16 +35,17 @@ Star UML
 <img width="950" height="865" alt="image" src="https://github.com/user-attachments/assets/42987712-0a3b-4b5e-a50d-9a08ac6d0569" />
 
 ### SEQUENCE DIAGRAM
-<img width="950" height="941" alt="image" src="https://github.com/user-attachments/assets/7ce9e951-f845-4eda-be76-9b3dcd111312" />
+<img width="950" height="890" alt="image" src="https://github.com/user-attachments/assets/db1bd9d9-f09d-42ba-82df-8298af2e826a" />
 
 ### PACKAGE DIAGRAM
-<img width="950" height="864" alt="image" src="https://github.com/user-attachments/assets/56f34f3f-82e9-45bb-a446-28224610ebac" />
+<img width="895" height="731" alt="image" src="https://github.com/user-attachments/assets/84d510ac-71a4-44bc-b194-e0ca4155358f" />
 
 ### ACTIVITY DIAGRAM
-<img width="958" height="858" alt="image" src="https://github.com/user-attachments/assets/72928f04-1ee9-4c89-bbc2-231bf5d2976e" />
+<img width="693" height="788" alt="image" src="https://github.com/user-attachments/assets/f1d60a9f-3aef-49b4-a7a2-6833d79295f9" />
+
 
 ### COMMUNICATION DIAGRAM
-<img width="950" height="860" alt="image" src="https://github.com/user-attachments/assets/43b04545-9e2d-4b54-8d4a-f086d5548bec" />
+<img width="1024" height="859" alt="image" src="https://github.com/user-attachments/assets/fa1b1405-ac9b-4838-82a7-4d384fbc3366" />
 
 
 ### RESULT:
